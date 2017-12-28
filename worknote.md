@@ -51,8 +51,12 @@
 
 ### 2017年12月27日
 >>>
-- 准备提交到Amlogic的BugList。
-- 修改DTVPlayer中菜单界面按返回键退出问题。
+- 准备提交到Amlogic的BugList。(已完成)
+- 修改DTVPlayer中菜单界面按返回键退出问题。 （已完成）
 >>>
 
+### 2017年12月28日
+>>>
+- 修改Bug：Signal Lock窗口中，Quality不能反映真实的信号质量，最高也不到30。
+>>>
 
