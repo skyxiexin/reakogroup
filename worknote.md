@@ -99,5 +99,5 @@
 
 ### 2018年1月6日
 >>>
-- 将Google Play Store组件适配到系统中。
+- 将Google Play Store组件适配到系统中。(已完成)
 >>>
