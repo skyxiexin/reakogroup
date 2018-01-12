@@ -8,6 +8,8 @@
  * echo 0 > /sys/class/dvbtgpio/control 可以使得tuner 输出5V电压为0V
 >>>
 
+---
+
 ## 设置数码管显示频道等信息
 
 修改log
@@ -28,9 +30,20 @@ Committed revision 48.
 > 可以： echo 0001 > /dev/fd650_dev.
 >
 
+---
+
 ## 开机广告应用代码仓库
 ```
 git clone xcf@192.168.1.18:/home/xcf/git/code_repository/boot_ad.git
+
+password: XCF@mele100
+
+```
+---
+
+## 应用启动广告代码仓库
+```
+git clone xcf@192.168.1.18:/home/xcf/git/code_repository/app_start_ad.git
 
 password: XCF@mele100
 
