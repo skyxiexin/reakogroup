@@ -27,3 +27,11 @@ Committed revision 48.
 
 > 可以： echo 0001 > /dev/fd650_dev.
 >
+
+## 开机广告应用代码仓库
+```
+git clone xcf@192.168.1.18:/home/xcf/git/code_repository/boot_ad.git
+
+password: XCF@mele100
+
+```
